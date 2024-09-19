@@ -1,0 +1,38 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info
+dist/
+build/
+*.so
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Flask and general temp files
+instance/
+*.log
+*.sqlite3
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# System files
+*.bak
+*.tmp
+*.temp
